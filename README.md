@@ -17,8 +17,4 @@ Selected Case Studies
 7. Text Compression Using Character Runs
 8. Student Marks Matrix Analysis
 9. Tuple-Based Product Catalogue Audit
-10. Food Waste Monitoring System
-
-Description
-
-This repository contains 10 Python programs selected for the Python Programming Activity-Based Learning assignment.
+10. Food Waste Monitoring System 
